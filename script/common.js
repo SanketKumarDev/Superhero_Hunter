@@ -9,7 +9,7 @@ const Common = (function () {
         const urls = [
             'https://wallpaperaccess.com/full/1225711.jpg',
             'https://wallpaperaccess.com/full/1225850.jpg',
-            'https://tpc.googlesyndication.com/simgad/9448295044806331629?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qmJFA45Vj8BCurnWRVt1k1tZyuF_g',
+            'https://wallpaperaccess.com/full/94666.jpg',
             'https://wallpaperaccess.com/full/94681.jpg',
             
         ];
