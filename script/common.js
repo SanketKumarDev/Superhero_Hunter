@@ -110,7 +110,7 @@ const Common = (function () {
     }
 
     function debounce(func, delay) {
-        let timeout;
+        let timeout;                                 //restrict api for frequent calls
         return function () {
             const context = this;
             const args = arguments;
