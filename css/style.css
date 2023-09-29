@@ -40,8 +40,8 @@ nav .right {
     font-size: 17px;
     padding: 5px 15px;
     border-radius: 5px;
-    background: rgba(236, 219, 73, 0.89);
-    color: #000;
+    background: rgba(238, 15, 15, 0.875);
+    color : #94f00be2;
 }
 
 .link:hover {
